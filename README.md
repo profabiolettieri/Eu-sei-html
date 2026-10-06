@@ -12,7 +12,7 @@ Escolha **um** dos cinco layouts e construa a página em **HTML e CSS**, com:
   - uma **cor diferente** para cada link;
   - **sem sublinhado**, mas com uma indicação visual de que são links (por exemplo, uma setinha ↗);
 - **duas divs**, cada uma com uma **imagem diferente** e no máximo **200×200px**.
-Sugestão para seta Trello &#8599;
+Sugestão para seta Trello &amp;#8599;
 Seu layout não precisa ser igual ao do PDF. Mude cores e detalhes e deixe a página com a sua cara.
 
 ## Por que isso importa?
