@@ -45,4 +45,4 @@ Errar faz parte. Se algo não funcionar, teste de novo. Quando terminar, publiqu
 - Os três links estão em Verdana, com cores diferentes e sem sublinhado.
 - As duas divs têm imagens diferentes e no máximo 200×200px.
 
-Quem começa a programar hoje cria os sites de amanhã. Mãos ao código! 💻✨
+Quem começa a programar hoje cria os sites de amanhã. Mãos ao código!
